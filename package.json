@@ -1,0 +1,14 @@
+{
+  "name": "influencer-match",
+  "version": "1.0.0",
+  "description": "Connect micro-influencers with affiliate offers. Automated matching engine.",
+  "main": "pipeline.js",
+  "scripts": {
+    "discover": "node discover.js",
+    "offers": "node offers.js",
+    "match": "node match.js",
+    "pipeline": "node pipeline.js"
+  },
+  "keywords": ["influencer", "affiliate", "marketing", "micro-influencer", "matching"],
+  "license": "MIT"
+}
