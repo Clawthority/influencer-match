@@ -98,6 +98,13 @@ const OFFERS = {
     { name: 'Fashion Nova', commission: '10-15%', network: 'ShareASale', category: 'Apparel', avgOrder: '$60', cookieDays: 30, url: 'https://fashionnova.com' },
     { name: 'Lululemon', commission: '5-7%', network: 'Impact', category: 'Athleisure', avgOrder: '$100', cookieDays: 7, url: 'https://lululemon.com' },
   ],
+  home: [
+    { name: 'Wayfair', commission: '2-7%', network: 'ShareASale', category: 'Furniture', avgOrder: '$200', cookieDays: 7, url: 'https://wayfair.com' },
+    { name: 'Brooklinen', commission: '5-10%', network: 'ShareASale', category: 'Bedding', avgOrder: '$200', cookieDays: 30, url: 'https://brooklinen.com' },
+    { name: 'Article', commission: '3-8%', network: 'Impact', category: 'Furniture', avgOrder: '$500', cookieDays: 30, url: 'https://article.com' },
+    { name: 'Casper', commission: '5-15%', network: 'ShareASale', category: 'Mattresses', avgOrder: '$1,000', cookieDays: 30, url: 'https://casper.com' },
+    { name: 'Parachute Home', commission: '5-10%', network: 'ShareASale', category: 'Bedding', avgOrder: '$150', cookieDays: 30, url: 'https://parachutehome.com' },
+  ],
 };
 
 // Get offers for a niche
