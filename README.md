@@ -114,6 +114,12 @@ Right now it's a discovery and matching tool (CLI/API). A full marketplace with 
 **What's the difference between this and existing platforms like Aspire or Grin?**
 Those platforms focus on macro-influencers and require large budgets. Influencer Match is built for the micro-influencer tier (1K-50K) where engagement is highest and costs are lowest. It's also developer-first — CLI and API, not another SaaS dashboard.
 
+## Related Products
+
+- **[Scam Academy](../scam-academy)** — Learn to spot scams with interactive simulations
+- **[Scam Shield](../scam-shield)** — Check suspicious messages, links, and crypto addresses
+- **[MindfulBot](../mindful-bot)** — Reduce screen time with micro-challenges
+
 ## License
 
 MIT
